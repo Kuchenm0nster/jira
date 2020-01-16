@@ -10,7 +10,7 @@
 ## 1.0.21 - 2019-09-16
 
 * [[#277](https://github.com/Netflix-Skunkworks/go-jira/issues/277)] update figtree to latest [Cory Bennett] [[0e520a4](https://github.com/Netflix-Skunkworks/go-jira/commit/0e520a4)]
-* Switch over to using github.com/go-jira/jira, from gopkg.in [Mike Pountney] [[27f57b2](https://github.com/Netflix-Skunkworks/go-jira/commit/27f57b2)]
+* Switch over to using github.com/Kuchenm0nster/jira, from gopkg.in [Mike Pountney] [[27f57b2](https://github.com/Netflix-Skunkworks/go-jira/commit/27f57b2)]
 * fix worklog template to allow multiline comments [Matthias Bethke] [[43e07f1](https://github.com/Netflix-Skunkworks/go-jira/commit/43e07f1)]
 * Allow reading password from stdin [Justin Ko] [[225e1dc](https://github.com/Netflix-Skunkworks/go-jira/commit/225e1dc)]
 * all: unindent some code [Daniel Martí] [[31c113d](https://github.com/Netflix-Skunkworks/go-jira/commit/31c113d)]

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#dist/github.com/go-jira/jira-darwin-amd64      dist/github.com/go-jira/jira-linux-amd64       dist/github.com/go-jira/jira-windows-amd64.exe
-#dist/github.com/go-jira/jira-linux-386         dist/github.com/go-jira/jira-windows-386.exe
+#dist/github.com/Kuchenm0nster/jira-darwin-amd64      dist/github.com/Kuchenm0nster/jira-linux-amd64       dist/github.com/Kuchenm0nster/jira-windows-amd64.exe
+#dist/github.com/Kuchenm0nster/jira-linux-386         dist/github.com/Kuchenm0nster/jira-windows-386.exe
 
 EXIT_CODE=0
 
