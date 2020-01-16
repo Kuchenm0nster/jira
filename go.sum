@@ -24,6 +24,8 @@ github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fatih/camelcase v1.0.0 h1:hxNvNX/xYBp0ovncs8WyWZrOrpBNub/JfaMvbURyft8=
 github.com/fatih/camelcase v1.0.0/go.mod h1:yN2Sb0lFhZJUdVvtELVWefmrXpuZESvPmqwoZc+/fpc=
+github.com/go-jira/jira v1.0.22 h1:p7bnMOi6W7y4hXAnnT29EK7NTR2BQ+pDmwwEwUD+GLY=
+github.com/go-jira/jira v1.0.22/go.mod h1:jvCd9u6F6DyX3wRRWv53qyDRnHYR0ffqYCLyYBX+uMM=
 github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
 github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/guelfey/go.dbus v0.0.0-20131113121618-f6a3a2366cc3 h1:fngCxKbvZdctIsWj2hYijhAt4iK0JXSSA78B36xP0yI=
