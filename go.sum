@@ -12,8 +12,6 @@ github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf h1:qet1QNfXsQxTZq
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
 github.com/cheekybits/genny v1.0.0 h1:uGGa4nei+j20rOSeDeP5Of12XVm7TGUd4dJA9RDitfE=
 github.com/cheekybits/genny v1.0.0/go.mod h1:+tQajlRqAUrPI7DOSpB0XAqZYtQakVtB7wXkRAgjxjQ=
-github.com/coryb/figtree v0.0.0-20180728224503-071d1ef303df h1:cS4Z9Nlv8J4UqFbLp9ltZypgenm2p3Jeg0yqLfpH2pc=
-github.com/coryb/figtree v0.0.0-20180728224503-071d1ef303df/go.mod h1:uAkZUEGm6dROpxfy+8vXLs7JrLCI4O+gQyKAuISxI/g=
 github.com/coryb/figtree v1.0.1-0.20190907170512-58176d03ef0d h1:99xxg8FYj+5TYg88DxA4xL8ODuI6OvuSu35WQOVPDPg=
 github.com/coryb/figtree v1.0.1-0.20190907170512-58176d03ef0d/go.mod h1:uAkZUEGm6dROpxfy+8vXLs7JrLCI4O+gQyKAuISxI/g=
 github.com/coryb/kingpeon v0.0.0-20180107011214-9a669f143f2e h1:tGmk9Tuyz7fKuBq/d3nFJvVWRvc48MEBKQC4uYV3wb0=
@@ -24,8 +22,6 @@ github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fatih/camelcase v1.0.0 h1:hxNvNX/xYBp0ovncs8WyWZrOrpBNub/JfaMvbURyft8=
 github.com/fatih/camelcase v1.0.0/go.mod h1:yN2Sb0lFhZJUdVvtELVWefmrXpuZESvPmqwoZc+/fpc=
-github.com/go-jira/jira v1.0.22 h1:p7bnMOi6W7y4hXAnnT29EK7NTR2BQ+pDmwwEwUD+GLY=
-github.com/go-jira/jira v1.0.22/go.mod h1:jvCd9u6F6DyX3wRRWv53qyDRnHYR0ffqYCLyYBX+uMM=
 github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
 github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/guelfey/go.dbus v0.0.0-20131113121618-f6a3a2366cc3 h1:fngCxKbvZdctIsWj2hYijhAt4iK0JXSSA78B36xP0yI=
